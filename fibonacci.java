@@ -1,4 +1,4 @@
-PROGRAMA FIBONACCI EM JAVA
+PROGRAMA FIBONACCI EM JAVA.
 import java.util.Scanner;
 
 public class java {
